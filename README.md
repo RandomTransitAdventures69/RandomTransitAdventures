@@ -1,6 +1,6 @@
 # RandomTransitAdventures
 
-> Transit, technology, and an unreasonable number of side projects™.
+> idk i saw a reel saying ts would give me j*bs, so here we are!.
 
 Welcome to my corner of GitHub.
 
