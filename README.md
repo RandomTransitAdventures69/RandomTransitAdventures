@@ -1,6 +1,6 @@
 # RandomTransitAdventures
 
-> idk i saw a reel saying ts would give me j*bs, so here we are!.
+> idk i saw a reel saying ts would give me j*bs, so here we are!
 
 Welcome to my corner of GitHub.
 
@@ -136,4 +136,4 @@ If something here looks interesting, feel free to check it out.
 
 **RandomTransitAdventures™**
 
-# i aint gon lie, i used cahtgpt for this because markdown sucks
+# i aint gon lie, i used cahtgpt for this because markdown sucks and im lazy as hell
